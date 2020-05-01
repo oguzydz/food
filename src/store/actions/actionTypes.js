@@ -5,3 +5,6 @@ export const REMOVE_CART    = 'REMOVE_CART'
 export const REMOVE_PRICE   = 'REMOVE_PRICE'
 export const DECREASE_CART  = 'DECREASE_CART'
 export const REMOVE_CART_LENGTH =  'REMOVE_CART_LENGTH';
+export const CHECK_AUTH  = 'CHECK_AUTH';
+export const SIGN_IN = 'SIGN_IN'; 
+export const LOGOUT = 'LOGOUT'; 

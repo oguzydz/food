@@ -53,7 +53,8 @@ const styles = StyleSheet.create({
         elevation: 5,
         position: "absolute",
         bottom: 0,
-        width: WIDTH
+        width: WIDTH,
+        marginBottom: -35
     },
     button: {
         flex: 1,

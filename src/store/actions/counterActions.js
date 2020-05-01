@@ -1,5 +1,5 @@
 import * as Actions from './actionTypes';
-import store from '..';
+
 
 export const add_price = (price) => async dispatch => {
     dispatch({
